@@ -760,6 +760,56 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "nekoJB",
+      "bundleIdentifier": "xyz.pythonplayer123.nekojb",
+      "developerName": "HAHALOSAH",
+      "localizedDescription": "Rootless jailbreak for compatible arm64 devices running iOS 15.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/nekojb.png",
+      "version": "0.1.0-beta-5",
+      "versionDate": "2024-01-09",
+      "downloadURL": "https://jb.aptso.co/jb/ipa/nekojb.ipa",
+      "size": 7685237,
+      "versions": [
+        {
+          "version": "0.1.0-beta-5",
+          "buildVersion": "1",
+          "date": "2024-01-09",
+          "downloadURL": "https://jb.aptso.co/jb/ipa/nekojb.ipa",
+          "size": 7685237,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Nyxian",
+      "bundleIdentifier": "org.emexlabs.nyxian",
+      "developerName": "emexLabs",
+      "localizedDescription": "On-device IDE and toolchain for developing native iOS apps.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/nyxian.png",
+      "version": "0.11.4",
+      "versionDate": "2026-09-10",
+      "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.4/Nyxian.ipa",
+      "size": 111250101,
+      "versions": [
+        {
+          "version": "0.11.4",
+          "buildVersion": "20260910.92.RELEASE",
+          "date": "2026-09-10",
+          "downloadURL": "https://github.com/emexlab/Nyxian/releases/download/0.11.4/Nyxian.ipa",
+          "size": 111250101,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
