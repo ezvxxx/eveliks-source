@@ -60,6 +60,356 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "lara",
+      "bundleIdentifier": "com.roooot.lara",
+      "developerName": "rooootdev",
+      "localizedDescription": "iOS customization toolbox",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/lara.png",
+      "version": "0.2",
+      "versionDate": "2026-05-22",
+      "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+      "size": 5474210,
+      "versions": [
+        {
+          "version": "0.2",
+          "buildVersion": "Release",
+          "date": "2026-05-22",
+          "downloadURL": "https://github.com/rooootdev/lara/releases/download/0.2/lara_v0.2.ipa",
+          "size": 5474210,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "GestaltX",
+      "bundleIdentifier": "com.huami.gestultx",
+      "developerName": "huami1314",
+      "localizedDescription": "MobileGestalt editor for compatible iOS 27 builds",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/gestaltx.png",
+      "version": "1.1.1",
+      "versionDate": "2026-11-13",
+      "downloadURL": "https://github.com/huami1314/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+      "size": 6774794,
+      "versions": [
+        {
+          "version": "1.1.1",
+          "buildVersion": "11140102",
+          "date": "2026-11-13",
+          "downloadURL": "https://github.com/huami1314/GestaltX/releases/download/v1.1.1/GestaltX_1.1.1.ipa",
+          "size": 6774794,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "AppStore++",
+      "bundleIdentifier": "com.cokepokes.AppStorePlus",
+      "developerName": "CokePokes",
+      "localizedDescription": "App Store version manager for TrollStore",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/appstore.png",
+      "version": "2.3.15",
+      "versionDate": "2026-09-17",
+      "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-7/AppStorePlus-v2.3.15-7.tipa",
+      "size": 11078209,
+      "versions": [
+        {
+          "version": "2.3.15",
+          "buildVersion": "7",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v2.3.15-7/AppStorePlus-v2.3.15-7.tipa",
+          "size": 11078209,
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Taurine",
+      "bundleIdentifier": "org.coolstar.taurine",
+      "developerName": "Odyssey-Team",
+      "localizedDescription": "Semi-untethered jailbreak for supported iOS 14 devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/taurine.png",
+      "version": "1.1.7-3",
+      "versionDate": "2023-09-23",
+      "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+      "size": 32244737,
+      "versions": [
+        {
+          "version": "1.1.7-3",
+          "buildVersion": "1",
+          "date": "2023-09-23",
+          "downloadURL": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+          "size": 32244737,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "developerName": "pwn20wndstuff",
+      "localizedDescription": "Jailbreak for supported versions of iOS 11 through 14",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/unc0ver.png",
+      "version": "8.0.2",
+      "versionDate": "2022-01-02",
+      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "size": 54489484,
+      "versions": [
+        {
+          "version": "8.0.2",
+          "buildVersion": "1",
+          "date": "2022-01-02",
+          "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+          "size": 54489484,
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Amethyst",
+      "bundleIdentifier": "com.staturnz.amethyst",
+      "developerName": "staturnzz",
+      "localizedDescription": "Jailbreak for compatible iOS 12 and iOS 13 devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/amethyst.png",
+      "version": "1.1",
+      "versionDate": "2026-10-12",
+      "downloadURL": "https://github.com/staturnzz/amethyst/releases/download/v1.1/Amethyst.ipa",
+      "size": 115881245,
+      "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "1",
+          "date": "2026-10-12",
+          "downloadURL": "https://github.com/staturnzz/amethyst/releases/download/v1.1/Amethyst.ipa",
+          "size": 115881245,
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "TrollInstallerDark",
+      "bundleIdentifier": "dev.rockylabs.TrollInstaller",
+      "developerName": "rockylabs-dev",
+      "localizedDescription": "TrollStore installer for compatible devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/trollinstallerdark.png",
+      "version": "1.0",
+      "versionDate": "2026-05-17",
+      "downloadURL": "https://github.com/rockylabs-dev/TrollInstallerDark/releases/download/1.0/TrollInstallerDark.ipa",
+      "size": 6114777,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-05-17",
+          "downloadURL": "https://github.com/rockylabs-dev/TrollInstallerDark/releases/download/1.0/TrollInstallerDark.ipa",
+          "size": 6114777,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Fugu15",
+      "bundleIdentifier": "de.pinauten.Fugu15",
+      "developerName": "pinauten",
+      "localizedDescription": "Developer-oriented jailbreak for compatible iOS 15 devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/fugu15.png",
+      "version": "1.0",
+      "versionDate": "2022-10-31",
+      "downloadURL": "https://github.com/pinauten/Fugu15/releases/download/v0.0.1/Fugu15.tipa",
+      "size": 34668390,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2022-10-31",
+          "downloadURL": "https://github.com/pinauten/Fugu15/releases/download/v0.0.1/Fugu15.tipa",
+          "size": 34668390,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Dopamine RootHide",
+      "bundleIdentifier": "com.opa334.Dopamine-roothide",
+      "developerName": "roothide",
+      "localizedDescription": "RootHide edition of Dopamine",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/dopamine.png",
+      "version": "3.0.13-30",
+      "versionDate": "2026-11-06",
+      "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.ipa",
+      "size": 55348740,
+      "versions": [
+        {
+          "version": "3.0.13-30",
+          "buildVersion": "1",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/roothide/Dopamine-roothide/releases/download/30/Dopamine-roothide-3.0.13-30.ipa",
+          "size": 55348740,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Cyanide",
+      "bundleIdentifier": "com.zeroxjf.ios-cyanide1",
+      "developerName": "kolbicz",
+      "localizedDescription": "Customization utility for compatible iOS devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/cyanide.png",
+      "version": "1.31.0",
+      "versionDate": "2026-11-22",
+      "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.31.0/Cyanide-1.31.0.ipa",
+      "size": 7081563,
+      "versions": [
+        {
+          "version": "1.31.0",
+          "buildVersion": "1031000",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/kolbicz/Cyanide/releases/download/v1.31.0/Cyanide-1.31.0.ipa",
+          "size": 7081563,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "mond",
+      "bundleIdentifier": "com.roooot.mondapp",
+      "developerName": "rooootdev",
+      "localizedDescription": "MobileGestalt editor for compatible iOS 27 beta builds",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/mond.png",
+      "version": "3.1",
+      "versionDate": "2026-11-11",
+      "downloadURL": "https://github.com/rooootdev/mond/releases/download/3_1/mond.ipa",
+      "size": 3417624,
+      "versions": [
+        {
+          "version": "3.1",
+          "buildVersion": "1",
+          "date": "2026-11-11",
+          "downloadURL": "https://github.com/rooootdev/mond/releases/download/3_1/mond.ipa",
+          "size": 3417624,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Ketamine",
+      "bundleIdentifier": "uk.nouvborne.ketamine",
+      "developerName": "Nouvborne",
+      "localizedDescription": "On-device MobileGestalt editor for compatible devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/ketamine.png",
+      "version": "1.2.1",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
+      "size": 21102348,
+      "versions": [
+        {
+          "version": "1.2.1",
+          "buildVersion": "4",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/Nouvborne/Ketamine/releases/download/1.2.1/Ketamine-1.2.1.ipa",
+          "size": 21102348,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "3105",
+      "bundleIdentifier": "com.apple.mobile.MobileHouseArrest",
+      "developerName": "YangJiiii",
+      "localizedDescription": "App data and wallpaper manager for compatible devices. Upstream provides an unsigned IPA.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/3105.png",
+      "version": "2.0",
+      "versionDate": "2026-09-14",
+      "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v2.0/3105-2.0-build8-20260914-125906-unsigned.ipa",
+      "size": 4604223,
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "8",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/YangJiiii/3105/releases/download/v2.0/3105-2.0-build8-20260914-125906-unsigned.ipa",
+          "size": 4604223,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Relaxin",
+      "bundleIdentifier": "com.aapl.relaxin",
+      "developerName": "owngoal-dev",
+      "localizedDescription": "RootHide jailbreak for compatible devices",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/relaxin.png",
+      "version": "0.5.7",
+      "versionDate": "2026-11-01",
+      "downloadURL": "https://github.com/5hux1n/relaxin/releases/download/v0.5.7/Relaxin-v0.5.7.ipa",
+      "size": 37211518,
+      "versions": [
+        {
+          "version": "0.5.7",
+          "buildVersion": "0",
+          "date": "2026-11-01",
+          "downloadURL": "https://github.com/5hux1n/relaxin/releases/download/v0.5.7/Relaxin-v0.5.7.ipa",
+          "size": 37211518,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
