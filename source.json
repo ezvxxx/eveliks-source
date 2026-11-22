@@ -33,6 +33,33 @@
         }
       ],
       "appPermissions": { "entitlements": [], "privacy": {} }
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "developerName": "Alfie",
+      "subtitle": "TrollStore installer for compatible iOS devices",
+      "localizedDescription": "Installs TrollStore on compatible iPhone and iPad models. Compatibility depends on the device and iOS version.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/trollinstallerx.png",
+      "screenshotURLs": [],
+      "version": "1.0.3",
+      "versionDate": "2024-09-12",
+      "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+      "size": 6889214,
+      "versions": [
+        {
+          "version": "1.0.3",
+          "buildVersion": "1",
+          "date": "2024-09-12",
+          "downloadURL": "https://github.com/alfiecg24/TrollInstallerX/releases/download/1.0.3/TrollInstallerX.ipa",
+          "size": 6889214,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
