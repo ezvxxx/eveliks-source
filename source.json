@@ -560,6 +560,206 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "wtfis",
+      "bundleIdentifier": "com.therealclarity.wtfis",
+      "developerName": "TheRealClarity",
+      "localizedDescription": "Untethered jailbreak for compatible 64-bit devices on iOS 8.0–8.4.1.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/wtfis.png",
+      "version": "1.0-b2",
+      "versionDate": "2023-11-08",
+      "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
+      "size": 10446151,
+      "versions": [
+        {
+          "version": "1.0-b2",
+          "buildVersion": "1",
+          "date": "2023-11-08",
+          "downloadURL": "https://github.com/TheRealClarity/wtfis/releases/download/1.0-b2/wtfis-1.0-b2.ipa",
+          "size": 10446151,
+          "minOSVersion": "8.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "daibutsu",
+      "bundleIdentifier": "com.sakuRdev.daibutsu",
+      "developerName": "kok3shidoll",
+      "localizedDescription": "Untethered jailbreak for compatible 32-bit devices on iOS 8.4.1.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/eveliks.png",
+      "version": "1.0b3",
+      "versionDate": "2021-05-07",
+      "downloadURL": "https://github.com/kok3shidoll/daibutsu/releases/download/1.0/daibutsu_v1.0b3.ipa",
+      "size": 7850430,
+      "versions": [
+        {
+          "version": "1.0b3",
+          "buildVersion": "1A343",
+          "date": "2021-05-07",
+          "downloadURL": "https://github.com/kok3shidoll/daibutsu/releases/download/1.0/daibutsu_v1.0b3.ipa",
+          "size": 7850430,
+          "minOSVersion": "8.4.1"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "EverPwnage",
+      "bundleIdentifier": "com.lukezgd.everpwnage",
+      "developerName": "LukeZGD",
+      "localizedDescription": "Untethered jailbreak for compatible 32-bit devices on iOS 7.0–9.3.6.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/eveliks.png",
+      "version": "2.0.3",
+      "versionDate": "2026-11-18",
+      "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.3/EverPwnage-v2.0.3.ipa",
+      "size": 16908118,
+      "versions": [
+        {
+          "version": "2.0.3",
+          "buildVersion": "1",
+          "date": "2026-11-18",
+          "downloadURL": "https://github.com/LukeZGD/EverPwnage/releases/download/v2.0.3/EverPwnage-v2.0.3.ipa",
+          "size": 16908118,
+          "minOSVersion": "7.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "rootlessJB4",
+      "bundleIdentifier": "org.brandonplank.rootlessJB",
+      "developerName": "brandonplank",
+      "localizedDescription": "Rootless jailbreak for compatible devices on iOS 12.0–12.4.8.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/rootlessjb4.png",
+      "version": "2.1",
+      "versionDate": "2020-07-15",
+      "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
+      "size": 38219791,
+      "versions": [
+        {
+          "version": "2.1",
+          "buildVersion": "301",
+          "date": "2020-07-15",
+          "downloadURL": "https://github.com/brandonplank/rootlessJB4/releases/download/2.1/rootlessJB4.ipa",
+          "size": 38219791,
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Socket",
+      "bundleIdentifier": "com.staturnz.socket",
+      "developerName": "staturnzz",
+      "localizedDescription": "Jailbreak for compatible 32-bit devices on iOS 10.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/socket.png",
+      "version": "1.3",
+      "versionDate": "2026-09-16",
+      "downloadURL": "https://github.com/staturnzz/socket/releases/download/v1.3/socket.ipa",
+      "size": 17505661,
+      "versions": [
+        {
+          "version": "1.3",
+          "buildVersion": "1.3",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/staturnzz/socket/releases/download/v1.3/socket.ipa",
+          "size": 17505661,
+          "minOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "p0laris",
+      "bundleIdentifier": "backwithavengeance",
+      "developerName": "p0larisdev",
+      "localizedDescription": "Jailbreak for compatible 32-bit devices on iOS 9.3.5 and 9.3.6.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/p0laris.png",
+      "version": "1.0.1",
+      "versionDate": "2022-05-19",
+      "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
+      "size": 16768539,
+      "versions": [
+        {
+          "version": "1.0.1",
+          "buildVersion": "1385",
+          "date": "2022-05-19",
+          "downloadURL": "https://github.com/p0larisdev/app/releases/download/v1.0.1/p0laris-Release.ipa",
+          "size": 16768539,
+          "minOSVersion": "9.3.5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Electra",
+      "bundleIdentifier": "org.coolstar.electra1141",
+      "developerName": "CoolStar",
+      "localizedDescription": "Jailbreak for compatible iOS 11 devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/electra.png",
+      "version": "2.0",
+      "versionDate": "2020-12-15",
+      "downloadURL": "https://raw.githubusercontent.com/coolstar/electra-ipas/master/Electra1141-2.0.ipa",
+      "size": 52200691,
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "1",
+          "date": "2020-12-15",
+          "downloadURL": "https://raw.githubusercontent.com/coolstar/electra-ipas/master/Electra1141-2.0.ipa",
+          "size": 52200691,
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Phoenix",
+      "bundleIdentifier": "supplies.wall.phoenix",
+      "developerName": "Siguza and tihmstar",
+      "localizedDescription": "Semi-untethered jailbreak for compatible 32-bit devices on iOS 9.3.5 and 9.3.6.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/phoenix.png",
+      "version": "6",
+      "versionDate": "2021-03-22",
+      "downloadURL": "https://raw.githubusercontent.com/qbap/ONEJailbreak/316627804260d0f8d101c31f785c38a1dce0f64e/Phoenix6.ipa",
+      "size": 23368425,
+      "versions": [
+        {
+          "version": "6",
+          "buildVersion": "1",
+          "date": "2021-03-22",
+          "downloadURL": "https://raw.githubusercontent.com/qbap/ONEJailbreak/316627804260d0f8d101c31f785c38a1dce0f64e/Phoenix6.ipa",
+          "size": 23368425,
+          "minOSVersion": "9.3.5"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
