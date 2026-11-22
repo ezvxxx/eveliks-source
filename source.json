@@ -14,7 +14,7 @@
       "developerName": "opa334",
       "subtitle": "Rootless jailbreak, iOS 15-26.0.1",
       "localizedDescription": "Open-source rootless semi-untethered jailbreak by Lars Fröder (opa334). iOS 15.0-17.3.1 on arm64e, iOS 15.0-18.7.1 on arm64, and iOS 26.0-26.0.1 on A12/A13. Works with Sileo and Zebra.",
-      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/dopamine.png",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/dopamine.pmg",
       "tintColor": "#E8643C",
       "screenshotURLs": [],
       "version": "3.0.13",
