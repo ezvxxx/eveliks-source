@@ -20,7 +20,7 @@
       "version": "3.0.13",
       "versionDate": "2026-11-03",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
-      "size": 0,
+      "size": 55422988,
       "versions": [
         {
           "version": "3.0.13",
@@ -28,7 +28,7 @@
           "date": "2026-11-03",
           "localizedDescription": "Fix posix_spawn hook attribute struct changes persisting after return (fixes Zebra on iOS 17.6+). Improve SpringBoard snapshot redirect logic in rootlesshook.",
           "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.13/Dopamine.ipa",
-          "size": 0,
+          "size": 55422988,
           "minOSVersion": "15.0"
         }
       ],
