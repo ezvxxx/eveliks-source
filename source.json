@@ -410,6 +410,106 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "dirtyZero",
+      "bundleIdentifier": "com.jbdotparty.dirtyZero",
+      "developerName": "jailbreak.party",
+      "localizedDescription": "Customization toolbox for compatible iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/dirtyzero.png",
+      "version": "2.0",
+      "versionDate": "2026-06-30",
+      "downloadURL": "https://github.com/jailbreakdotparty/dirtyZero/releases/download/2.0/dirtyZero_v2.0.ipa",
+      "size": 885389,
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "1",
+          "date": "2026-06-30",
+          "downloadURL": "https://github.com/jailbreakdotparty/dirtyZero/releases/download/2.0/dirtyZero_v2.0.ipa",
+          "size": 885389,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Lithium",
+      "bundleIdentifier": "com.jbdotparty.Lithium",
+      "developerName": "jailbreak.party",
+      "localizedDescription": "Generates configuration profiles for iOS customization.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/lithium.png",
+      "version": "0.2",
+      "versionDate": "2026-07-03",
+      "downloadURL": "https://github.com/jailbreakdotparty/Lithium/releases/download/0.2/Lithium_v0.2.ipa",
+      "size": 3067657,
+      "versions": [
+        {
+          "version": "0.2",
+          "buildVersion": "1",
+          "date": "2026-07-03",
+          "downloadURL": "https://github.com/jailbreakdotparty/Lithium/releases/download/0.2/Lithium_v0.2.ipa",
+          "size": 3067657,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Erosion",
+      "bundleIdentifier": "com.jbdotparty.Erosion",
+      "developerName": "jailbreak.party",
+      "localizedDescription": "Wallpaper and system customization for compatible iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/erosion.png",
+      "version": "0.3.1",
+      "versionDate": "2026-11-10",
+      "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
+      "size": 2415476,
+      "versions": [
+        {
+          "version": "0.3.1",
+          "buildVersion": "1",
+          "date": "2026-11-10",
+          "downloadURL": "https://github.com/jailbreakdotparty/Erosion/releases/download/0.3.1/Erosion_v0.3.1.ipa",
+          "size": 2415476,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Filos",
+      "bundleIdentifier": "com.jbdotparty.filos",
+      "developerName": "jailbreak.party",
+      "localizedDescription": "Open-source file manager for iOS.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/filos.png",
+      "version": "0.1",
+      "versionDate": "2026-10-03",
+      "downloadURL": "https://github.com/jailbreakdotparty/Filos/releases/download/0.1/Filos_0.1_release.ipa",
+      "size": 5567894,
+      "versions": [
+        {
+          "version": "0.1",
+          "buildVersion": "1",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/jailbreakdotparty/Filos/releases/download/0.1/Filos_0.1_release.ipa",
+          "size": 5567894,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
