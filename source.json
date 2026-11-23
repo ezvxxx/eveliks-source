@@ -860,6 +860,56 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Serotonin",
+      "bundleIdentifier": "pisshill.usprebooter",
+      "developerName": "SerotoninApp",
+      "localizedDescription": "TrollStore semi-jailbreak for compatible devices on iOS 16.0–16.6.1.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/serotonin.png",
+      "version": "1.2.1",
+      "versionDate": "2024-01-17",
+      "downloadURL": "https://github.com/SerotoninApp/Serotonin/releases/download/1.2.1/Serotonin.tipa",
+      "size": 14986482,
+      "versions": [
+        {
+          "version": "1.2.1",
+          "buildVersion": "1",
+          "date": "2024-01-17",
+          "downloadURL": "https://github.com/SerotoninApp/Serotonin/releases/download/1.2.1/Serotonin.tipa",
+          "size": 14986482,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "WorkSlop",
+      "bundleIdentifier": "com.adnan120hz.workslop",
+      "developerName": "adnan120hz",
+      "localizedDescription": "iOS customization utility. Upstream provides an unsigned IPA.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/workslop.png",
+      "version": "4.0",
+      "versionDate": "2026-10-31",
+      "downloadURL": "https://github.com/adnan120hz/WorkSlop-Mobile-New/releases/download/V4/WorkSlop-unsigned.ipa",
+      "size": 13526800,
+      "versions": [
+        {
+          "version": "4.0",
+          "buildVersion": "14",
+          "date": "2026-10-31",
+          "downloadURL": "https://github.com/adnan120hz/WorkSlop-Mobile-New/releases/download/V4/WorkSlop-unsigned.ipa",
+          "size": 13526800,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
