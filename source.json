@@ -1185,6 +1185,56 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "SideInstaller",
+      "bundleIdentifier": "com.frizzlem.sideinstaller",
+      "developerName": "FrizzleM",
+      "localizedDescription": "Installs SideStore on-device on compatible iOS 27 builds.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/sideinstaller.png",
+      "version": "2.1.1",
+      "versionDate": "2026-11-21",
+      "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v2.1.1/SideInstaller.ipa",
+      "size": 10958767,
+      "versions": [
+        {
+          "version": "2.1.1",
+          "buildVersion": "1",
+          "date": "2026-11-21",
+          "downloadURL": "https://github.com/FrizzleM/SideInstaller/releases/download/v2.1.1/SideInstaller.ipa",
+          "size": 10958767,
+          "minOSVersion": "27.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "LiveContainer",
+      "bundleIdentifier": "com.kdt.livecontainer",
+      "developerName": "LiveContainer",
+      "localizedDescription": "Runs iOS apps inside a container without installing each app separately.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/livecontainer.png",
+      "version": "3.8.0",
+      "versionDate": "2026-07-17",
+      "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+      "size": 4707271,
+      "versions": [
+        {
+          "version": "3.8.0",
+          "buildVersion": "3.8.0",
+          "date": "2026-07-17",
+          "downloadURL": "https://github.com/LiveContainer/LiveContainer/releases/download/3.8.0/LiveContainer.ipa",
+          "size": 4707271,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
