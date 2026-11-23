@@ -910,6 +910,281 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Odyssey",
+      "bundleIdentifier": "org.coolstar.odyssey",
+      "developerName": "Odyssey-Team",
+      "localizedDescription": "Jailbreak for compatible iOS 13 devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/odyssey.png",
+      "version": "1.4.3",
+      "versionDate": "2023-04-04",
+      "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+      "size": 27204395,
+      "versions": [
+        {
+          "version": "1.4.3",
+          "buildVersion": "1",
+          "date": "2023-04-04",
+          "downloadURL": "https://github.com/Odyssey-Team/Odyssey/releases/download/v1.4.3/Odyssey-1.4.3.ipa",
+          "size": 27204395,
+          "minOSVersion": "13.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Chimera",
+      "bundleIdentifier": "com.electrateam.chimera",
+      "developerName": "coolstar",
+      "localizedDescription": "Jailbreak for compatible iOS 12 devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/chimera.png",
+      "version": "1.6.5",
+      "versionDate": "2023-04-04",
+      "downloadURL": "https://raw.githubusercontent.com/coolstar/electra-ipas/3e848a76a58cf3dfd432a98da6c224b7abaeff03/chimera/1.6.5-12.0-12.5.ipa",
+      "size": 90121890,
+      "versions": [
+        {
+          "version": "1.6.5",
+          "buildVersion": "1",
+          "date": "2023-04-04",
+          "downloadURL": "https://raw.githubusercontent.com/coolstar/electra-ipas/3e848a76a58cf3dfd432a98da6c224b7abaeff03/chimera/1.6.5-12.0-12.5.ipa",
+          "size": 90121890,
+          "minOSVersion": "12.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Meridian",
+      "bundleIdentifier": "zone.sparkes.MeridianJB2",
+      "developerName": "PsychoTea",
+      "localizedDescription": "Jailbreak for compatible 64-bit iOS 10 devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/meridian.png",
+      "version": "0.9-007",
+      "versionDate": "2018-09-27",
+      "downloadURL": "https://github.com/PsychoTea/MeridianJB/releases/download/v0.9-007/Meridian-v0.9-007.ipa",
+      "size": 10720286,
+      "versions": [
+        {
+          "version": "0.9-007",
+          "buildVersion": "1",
+          "date": "2018-09-27",
+          "downloadURL": "https://github.com/PsychoTea/MeridianJB/releases/download/v0.9-007/Meridian-v0.9-007.ipa",
+          "size": 10720286,
+          "minOSVersion": "10.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "SparseBox",
+      "bundleIdentifier": "com.kdt.SparseBox",
+      "developerName": "khanhduytran0",
+      "localizedDescription": "On-device iOS customization toolbox.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/eveliks.png",
+      "version": "2.0",
+      "versionDate": "2025-12-12",
+      "downloadURL": "https://github.com/khanhduytran0/SparseBox/releases/download/2.0/SparseBox.ipa",
+      "size": 9357334,
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "2",
+          "date": "2025-12-12",
+          "downloadURL": "https://github.com/khanhduytran0/SparseBox/releases/download/2.0/SparseBox.ipa",
+          "size": 9357334,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Cowabunga",
+      "bundleIdentifier": "com.leemin.Cowabunga",
+      "developerName": "leminlimez",
+      "localizedDescription": "iOS customization toolbox for compatible devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/cowabunga.png",
+      "version": "10.3.2",
+      "versionDate": "2023-05-29",
+      "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
+      "size": 16288960,
+      "versions": [
+        {
+          "version": "10.3.2",
+          "buildVersion": "0",
+          "date": "2023-05-29",
+          "downloadURL": "https://github.com/leminlimez/Cowabunga/releases/download/v10.3.2/Cowabunga.ipa",
+          "size": 16288960,
+          "minOSVersion": "14.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "DynamicCow",
+      "bundleIdentifier": "com.zeph.DynamicCoww",
+      "developerName": "matteozappia",
+      "localizedDescription": "Dynamic Island layout customization for compatible iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/dynamiccow.png",
+      "version": "1.1",
+      "versionDate": "2023-02-02",
+      "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
+      "size": 915515,
+      "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "1",
+          "date": "2023-02-02",
+          "downloadURL": "https://github.com/matteozappia/DynamicCow/releases/download/1.1/DynamicCow.ipa",
+          "size": 915515,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "FilzaJailedDS",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "developerName": "34306",
+      "localizedDescription": "File manager build for compatible devices on iOS 17.0–26.0.1.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/filzajailedds.png",
+      "version": "2.2",
+      "versionDate": "2026-04-25",
+      "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.2/Filza.ipa",
+      "size": 14213420,
+      "versions": [
+        {
+          "version": "2.2",
+          "buildVersion": "0",
+          "date": "2026-04-25",
+          "downloadURL": "https://github.com/34306/FilzaJailedDS/releases/download/2.2/Filza.ipa",
+          "size": 14213420,
+          "minOSVersion": "17.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "MDC0",
+      "bundleIdentifier": "com.34306.mdc0",
+      "developerName": "34306",
+      "localizedDescription": "Customization utility for compatible iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/eveliks.png",
+      "version": "2.0",
+      "versionDate": "2025-05-12",
+      "downloadURL": "https://github.com/34306/mdc0/releases/download/2.0/mdc0_2.0.ipa",
+      "size": 130863,
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "1",
+          "date": "2025-05-12",
+          "downloadURL": "https://github.com/34306/mdc0/releases/download/2.0/mdc0_2.0.ipa",
+          "size": 130863,
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "iDevice Toolkit",
+      "bundleIdentifier": "com.idevicecentral.toolkit",
+      "developerName": "GeoSn0w",
+      "localizedDescription": "Customization toolkit for compatible iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/idevice-toolkit.png",
+      "version": "2.0.1",
+      "versionDate": "2025-07-13",
+      "downloadURL": "https://github.com/GeoSn0w/iDevice-Toolkit/releases/download/v2.0.1/iDeviceToolKit-v2.0.1-idevicecentral.ipa",
+      "size": 2031389,
+      "versions": [
+        {
+          "version": "2.0.1",
+          "buildVersion": "12",
+          "date": "2025-07-13",
+          "downloadURL": "https://github.com/GeoSn0w/iDevice-Toolkit/releases/download/v2.0.1/iDeviceToolKit-v2.0.1-idevicecentral.ipa",
+          "size": 2031389,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "SparseBox Plus",
+      "bundleIdentifier": "com.jbdotparty.sparseboxplus",
+      "developerName": "jailbreakdotparty",
+      "localizedDescription": "An iOS customization toolbox based on SparseBox.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/sparsebox-plus.png",
+      "version": "0.3",
+      "versionDate": "2026-09-06",
+      "downloadURL": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/download/0.3/SparseBoxPlus_v0.3.ipa",
+      "size": 11206285,
+      "versions": [
+        {
+          "version": "0.3",
+          "buildVersion": "Release",
+          "date": "2026-09-06",
+          "downloadURL": "https://github.com/jailbreakdotparty/SparseBoxPlus/releases/download/0.3/SparseBoxPlus_v0.3.ipa",
+          "size": 11206285,
+          "minOSVersion": "17.4"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    },
+    {
+      "name": "Pangu9",
+      "bundleIdentifier": "io.pangu.nvwastone",
+      "developerName": "PanguTeam",
+      "localizedDescription": "Jailbreak for compatible 64-bit devices on iOS 9.2–9.3.3.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/pangu9.png",
+      "version": "1.1",
+      "versionDate": "2016-08-04",
+      "downloadURL": "https://web.archive.org/web/20160804230201id_/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa",
+      "size": 22217739,
+      "versions": [
+        {
+          "version": "1.1",
+          "buildVersion": "1.1",
+          "date": "2016-08-04",
+          "downloadURL": "https://web.archive.org/web/20160804230201id_/http://dl.pangu.25pp.com/jb/NvwaStone_1.1.ipa",
+          "size": 22217739,
+          "minOSVersion": "9.2"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
