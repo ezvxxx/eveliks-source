@@ -835,6 +835,31 @@
         "entitlements": [],
         "privacy": {}
       }
+    },
+    {
+      "name": "Sileo Demo",
+      "bundleIdentifier": "org.coolstar.SileoDemo",
+      "developerName": "Sileo Team",
+      "localizedDescription": "Standalone demo for browsing package repositories. The demo cannot install jailbreak packages.",
+      "iconURL": "https://raw.githubusercontent.com/ezvxxx/eveliks-source/main/icons/sileo-demo.png",
+      "version": "1.0",
+      "versionDate": "2025-05-08",
+      "downloadURL": "https://senumy.com/files/IPAs/download/GetSileo.ipa",
+      "size": 9508713,
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2025-05-08",
+          "downloadURL": "https://senumy.com/files/IPAs/download/GetSileo.ipa",
+          "size": 9508713,
+          "minOSVersion": "11.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
     }
   ],
   "news": []
